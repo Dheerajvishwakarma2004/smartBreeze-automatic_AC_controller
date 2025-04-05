@@ -90,6 +90,7 @@ Contributions, ideas, and suggestions are welcome! Feel free to open issues or p
 
 **Sourajeet Sahoo**  
 [GitHub](https://github.com/SourajeetOfficial) • [LinkedIn](https://linkedin.com/in/your-profile)
+
 **Yash Tiwari**  
 [GitHub](https://github.com/yashtiwari0069) • [LinkedIn](https://linkedin.com/in/your-profile)
 
