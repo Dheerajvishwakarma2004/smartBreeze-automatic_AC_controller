@@ -87,16 +87,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Contributions, ideas, and suggestions are welcome! Feel free to open issues or pull requests.
 
-## 🙋‍♂️ Author
+## 🙋‍♂️ Authors
 
-**Dheeraj Vishwakarma**  
-[GitHub](https://github.com/Dheerajvishwakarma2004) • [LinkedIn](https://www.linkedin.com/in/dheeraj-vishwakarma-907264288)
+| Name               | GitHub                                           | LinkedIn                                         |
+|--------------------|--------------------------------------------------|--------------------------------------------------|
+| Dheeraj Vishwakarma | <a href="https://github.com/Dheerajvishwakarma2004"><img src="https://img.icons8.com/material-outlined/24/000000/github.png"/></a> | <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png"/></a> |
+| Sourajeet Sahoo     | <a href="https://github.com/SourajeetOfficial"><img src="https://img.icons8.com/material-outlined/24/000000/github.png"/></a> | <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png"/></a> |
+| Yash Tiwari         | <a href="https://github.com/yashtiwari0069"><img src="https://img.icons8.com/material-outlined/24/000000/github.png"/></a> | <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png"/></a> |
 
-**Sourajeet Sahoo**  
-[GitHub](https://github.com/SourajeetOfficial) • [LinkedIn](https://www.linkedin.com/in/sourajeet-sahoo-29743025b)
-
-**Yash Tiwari**  
-[GitHub](https://github.com/yashtiwari0069) • [LinkedIn](https://www.linkedin.com/in/yash-tiwari-636b41284)
 
 ---
 
