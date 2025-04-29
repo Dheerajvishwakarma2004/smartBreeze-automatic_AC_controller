@@ -14,7 +14,7 @@ A smart and cost-effective IoT-based AC control system that uses ESP8266, DHT11,
 
 ## 📷 Project Demo
 
-![Hardware Setup](https://github.com/Dheerajvishwakarma2004/smartBreeze-automatic_AC_controller/blob/main/assets/hardware.jpg)
+<img src="https://github.com/Dheerajvishwakarma2004/smartBreeze-automatic_AC_controller/blob/main/assets/hardware.jpg" alt="Hardware Setup" width="500"/>
 ![App UI](https://github.com/Dheerajvishwakarma2004/smartBreeze-automatic_AC_controller/blob/main/assets/Flutter%20Ui%20.jpg)
 
 
@@ -86,13 +86,13 @@ Contributions, ideas, and suggestions are welcome! Feel free to open issues or p
 ## 🙋‍♂️ Author
 
 **Dheeraj Vishwakarma**  
-[GitHub](https://github.com/Dheerajvishwakarma2004) • [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/Dheerajvishwakarma2004) • [LinkedIn](https://www.linkedin.com/in/dheeraj-vishwakarma-907264288)
 
 **Sourajeet Sahoo**  
-[GitHub](https://github.com/SourajeetOfficial) • [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/SourajeetOfficial) • [LinkedIn](https://www.linkedin.com/in/sourajeet-sahoo-29743025b)
 
 **Yash Tiwari**  
-[GitHub](https://github.com/yashtiwari0069) • [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/yashtiwari0069) • [LinkedIn](https://www.linkedin.com/in/yash-tiwari-636b41284)
 
 ---
 
