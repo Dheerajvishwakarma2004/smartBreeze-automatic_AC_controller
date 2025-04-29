@@ -15,11 +15,10 @@ A smart and cost-effective IoT-based AC control system that uses ESP8266, DHT11,
 ## 📷 Project Demo
 
 <p align="center">
-  <img src="https://github.com/Dheerajvishwakarma2004/smartBreeze-automatic_AC_controller/blob/main/assets/hardware.jpg" alt="Hardware Setup" width="45%" />
-  <img src="https://github.com/Dheerajvishwakarma2004/smartBreeze-automatic_AC_controller/blob/main/assets/Flutter%20Ui%20.jpg" alt="App UI" width="45%" />
+  <img src="https://github.com/Dheerajvishwakarma2004/smartBreeze-automatic_AC_controller/blob/main/assets/hardware.jpg" alt="Hardware Setup" height="300px" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/Dheerajvishwakarma2004/smartBreeze-automatic_AC_controller/blob/main/assets/Flutter%20Ui%20.jpg" alt="App UI" height="200px" />
 </p>
-
-
 
 
 ## 🔌 Components Used
