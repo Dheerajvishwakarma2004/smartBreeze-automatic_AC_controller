@@ -89,18 +89,27 @@ Contributions, ideas, and suggestions are welcome! Feel free to open issues or p
 
 ## 🙋‍♂️ Authors
 
-- **Dheeraj Vishwakarma**  
-  [GitHub](https://github.com/Dheerajvishwakarma2004) | [LinkedIn](https://www.linkedin.com/in/dheeraj-vishwakarma-907264288)
+<div style="display: flex; justify-content: space-between;">
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+  <div>
+    <strong>Dheeraj Vishwakarma</strong><br>
+    <a href="https://github.com/Dheerajvishwakarma2004">GitHub</a> | 
+    <a href="https://www.linkedin.com/in/dheeraj-vishwakarma-907264288">LinkedIn</a>
+  </div>
 
-- **Sourajeet Sahoo**  
-  [GitHub](https://github.com/SourajeetOfficial) | [LinkedIn](https://www.linkedin.com/in/sourajeet-sahoo-29743025b)
+  <div>
+    <strong>Sourajeet Sahoo</strong><br>
+    <a href="https://github.com/SourajeetOfficial">GitHub</a> | 
+    <a href="https://www.linkedin.com/in/sourajeet-sahoo-29743025b">LinkedIn</a>
+  </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+  <div>
+    <strong>Yash Tiwari</strong><br>
+    <a href="https://github.com/yashtiwari0069">GitHub</a> | 
+    <a href="https://www.linkedin.com/in/yash-tiwari-636b41284">LinkedIn</a>
+  </div>
 
-- **Yash Tiwari**  
-  [GitHub](https://github.com/yashtiwari0069) | [LinkedIn](https://www.linkedin.com/in/yash-tiwari-636b41284)
+</div>
 
 
 
