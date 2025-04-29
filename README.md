@@ -89,11 +89,11 @@ Contributions, ideas, and suggestions are welcome! Feel free to open issues or p
 
 ## 🙋‍♂️ Authors
 
-| Name               | GitHub                                           | LinkedIn                                         |
-|--------------------|--------------------------------------------------|--------------------------------------------------|
-| Dheeraj Vishwakarma | <a href="https://github.com/Dheerajvishwakarma2004"><img src="https://img.icons8.com/material-outlined/24/000000/github.png"/></a> | <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png"/></a> |
-| Sourajeet Sahoo     | <a href="https://github.com/SourajeetOfficial"><img src="https://img.icons8.com/material-outlined/24/000000/github.png"/></a> | <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png"/></a> |
-| Yash Tiwari         | <a href="https://github.com/yashtiwari0069"><img src="https://img.icons8.com/material-outlined/24/000000/github.png"/></a> | <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png"/></a> |
+| Name               | GitHub                                                                                   | LinkedIn                                                                                   |
+|--------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Dheeraj Vishwakarma | <a href="https://github.com/Dheerajvishwakarma2004"><img src="https://img.icons8.com/ios-filled/30/github--v1.png"/></a> | <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/ios-filled/30/linkedin.png"/></a> |
+| Sourajeet Sahoo     | <a href="https://github.com/SourajeetOfficial"><img src="https://img.icons8.com/ios-filled/30/github--v1.png"/></a> | <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/ios-filled/30/linkedin.png"/></a> |
+| Yash Tiwari         | <a href="https://github.com/yashtiwari0069"><img src="https://img.icons8.com/ios-filled/30/github--v1.png"/></a> | <a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/ios-filled/30/linkedin.png"/></a> |
 
 
 ---
